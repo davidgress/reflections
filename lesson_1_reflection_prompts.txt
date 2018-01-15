@@ -1,0 +1,64 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
+Reflection - section 8
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+Learn from mistakes. Review changes to see how issue evolved over time. Reestablish an old piece
+of code. Find out the cause of a current bug by isolating new code that was added.
+
+
+Reflection - section 15
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros - more control. keep bugs out.
+Cons - might forget, too many versions get saved.
+
+Reflect: section 18
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+To better meld the changes together since a change in one file could affect the other file.
+
+Reflect: section 22
+How can you use the commands git log and git diff to view the history of files?
+log tells you all the changes in the repository. diff can be used to get the changes between two versions.
+
+Reflect: section 26
+How might using version control make you more confident to make changes that could break something?
+You know you can always checkout the good version if you introduce a bug.
+
+Reflect: section 31
+Now that you have your workspace set up, what do you want to try using Git for?
+Adding OracleJet projects to Git repo.
