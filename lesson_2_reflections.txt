@@ -27,3 +27,9 @@ easier to write long commit messages that fully describe the change.
 Commit message style
 While commit message style varies from person to person, this style guide 
 describes some common best practices when writing commit messages.
+
+Reflect 12
+How can you use the staging area to make sure you have one commit per logical change?
+Monitor the staging area. 
+git diff --staged
+
