@@ -58,3 +58,12 @@ go add the following question and your thoughts on it to your reflections file:
 
 How do the diagrams help you visualize the branch structure?
 They make it clearer.
+
+
+Reflect 26
+What is the result of merging two branches together? 
+A new branch that contains commits from both branches.
+
+Why do we represent it in the diagram the way we do?
+It lets you know that the two branches formed one. Also tells the commits from each.
+
