@@ -1,7 +1,20 @@
 Lesson 4: Using GitHub to collaborate
 Reflect 7
 When would you want to create a remote repository rather than keeping all your work local?
+When you want to share it or access it from another computer/location.
 
-Reflect 10
+Reflect 10 Manual vs automatic pull
 Why might you want to always pull changes manually rather than having Git automatically stay 
 up-to-date with your remote repository?
+So that you control what is pulled. There may be things you are ready to receive.
+Also, you may be in the middle a huge change and a pull might cause conflicts.
+
+Reflect 14 forks, clones, and branches
+Describe the differences between forks, clones, and branches. 
+Forks is only on GitHub and is used to put another repository into your account.
+Clones is used to copy a repository from GitHub or your own machine.
+A branch is a new path from the master of a repository which may be a new feature or 
+new version.
+When would you use one instead of another?
+Fork is used when you want another users files. Branch for new features. Clone to get a whole
+copy of a repo or for a backup or release. 
