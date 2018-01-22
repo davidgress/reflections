@@ -18,3 +18,7 @@ new version.
 When would you use one instead of another?
 Fork is used when you want another users files. Branch for new features. Clone to get a whole
 copy of a repo or for a backup or release. 
+
+Reflect 22: Local copies of remote branches
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Makes merging easier. Gives a good base to start working on since all changes are known.
